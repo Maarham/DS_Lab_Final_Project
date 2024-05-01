@@ -5,3 +5,5 @@ Final project for DS Lab over sentiment analysis and NLP.
 Lamma: https://colab.research.google.com/drive/1QVj1ebVpmLBo_jWicFS6zujTl6S0--v3?usp=sharing
 
 Mistral: https://colab.research.google.com/drive/1bQvKJbYQUa2sQDkx8qu_HBtkTSOcOqee?usp=sharing
+
+Gemma: https://colab.research.google.com/drive/1hCPilbyHesliWGeC7Lmy0Cu4pTY978Sc?usp=sharing
